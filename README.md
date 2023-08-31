@@ -13,11 +13,11 @@ Our project focuses on implementing Federated Learning (FL) in Vehicular Ad hoc 
 
 ## Features
 
-Implementation of Federated Learning in VANETs: We bring the power of FL to VANETs, allowing vehicles to collaboratively train machine learning models for improved decision-making on the road.
-Clustering-based Approach: Our innovative approach uses multi-hop clustering to form groups of vehicles that collectively train models, ensuring efficient use of communication resources.
-Dynamic Cluster Head Adaptation: We introduce a mechanism for seamless transitions of cluster heads, optimizing the convergence of learning models even in the presence of changing vehicle dynamics.
-Data Diversity and Mobility Consideration: Our framework integrates both average relative speed and cosine similarity of model parameters, addressing challenges related to data heterogeneity and vehicle mobility.
-Improved Accuracy and Convergence: Through extensive simulations, we demonstrate that our approach outperforms previous algorithms, leading to higher accuracy and faster convergence.
+- **Implementation of Federated Learning in VANETs:** We bring the power of FL to VANETs, allowing vehicles to collaboratively train machine learning models for improved decision-making on the road.
+- **Clustering-based Approach:** Our innovative approach uses multi-hop clustering to form groups of vehicles that collectively train models, ensuring efficient use of communication resources.
+- **Dynamic Cluster Head Adaptation:** We introduce a mechanism for seamless transitions of cluster heads, optimizing the convergence of learning models even in the presence of changing vehicle dynamics.
+- **Data Diversity and Mobility Consideration:** Our framework integrates both average relative speed and cosine similarity of model parameters, addressing challenges related to data heterogeneity and vehicle mobility.
+- **Improved Accuracy and Convergence:** Through extensive simulations, we demonstrate that our approach outperforms previous algorithms, leading to higher accuracy and faster convergence.
 
 
 ```bash
